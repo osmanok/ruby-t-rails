@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+[![Run on Repl.it](https://repl.it/badge/github/osmanok/ruby-t-rails)](https://repl.it/github/osmanok/ruby-t-rails)
